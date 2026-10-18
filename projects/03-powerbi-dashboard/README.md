@@ -66,7 +66,3 @@ Completion Rate = DIVIDE(
 - Cancellation rate highest in Electronics (~6.6%)
 
 ---
-
-## 💡 Recommendation example
-
-Focus growth efforts on under-indexed regions (Lankaran, Shaki-Zagatala) while protecting the high-performing Electronics category and investigating its slightly higher cancellation rate.
