@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **[Adını yaz]** — an aspiring Data Analyst focused on cleaning messy data, finding real insights, and building dashboards that help teams make better decisions.
+Hi, I'm Elvin Hasanov — an aspiring Data Analyst focused on cleaning messy data, finding real insights, and building dashboards that help teams make better decisions.
 
 **Core skills:**
 - **SQL** (PostgreSQL, Window Functions, CTEs, data cleaning)
@@ -17,10 +17,9 @@ Hi, I'm **[Adını yaz]** — an aspiring Data Analyst focused on cleaning messy
 - **Excel** (Power Query, Pivot Tables, advanced formulas)
 - **A/B Testing & Statistics** (hypothesis testing, experiment analysis)
 - Data cleaning, EDA, storytelling with data
-
-📍 Based in Baku, Azerbaijan  
-📧 [email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+  
+📧 [elvinhasanov@mail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/elvinhasanov3) · [GitHub](https://github.com/yourusername)
 
 ---
 
