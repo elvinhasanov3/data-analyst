@@ -83,14 +83,3 @@ DATETRUNC('month', [Order_Date])
 - Revenue relatively stable month-to-month with mild peaks in May, Aug, Dec
 
 ---
-
-## 💡 How to publish
-
-1. Open Tableau → Connect to the CSV
-2. Build the sheets and one clean dashboard
-3. Save as `.twbx` (packaged workbook)
-4. Publish to Tableau Public and put the public link in this README
-5. Export 2–3 screenshots into the `screenshots/` folder
-
-**Live link (add yours):**  
-[Your Tableau Public URL here]
