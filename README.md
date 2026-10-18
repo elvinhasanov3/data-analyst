@@ -19,7 +19,7 @@ Hi, I'm Elvin Hasanov — an aspiring Data Analyst focused on cleaning messy dat
 - Data cleaning, EDA, storytelling with data
   
 📧 [elvinhasanov@mail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/elvinhasanov3) · [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/elvinhasanov3)
 
 ---
 
