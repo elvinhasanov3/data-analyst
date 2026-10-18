@@ -25,11 +25,11 @@
 05-tableau-dashboard/
 ├── data/
 │   └── ecommerce_sales_dataset.csv
-├── screenshots/                  ← Add your dashboard images here
+├── screenshots/                 
 │   ├── overview.png
 │   ├── by_region.png
 │   └── trend.png
-├── Azerbaijan_Ecommerce_Dashboard.twbx   ← Publish & add the file
+├── Azerbaijan_Ecommerce_Dashboard.twbx   
 └── README.md
 ```
 
