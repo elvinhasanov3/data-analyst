@@ -1,4 +1,4 @@
-# 📊 Azerbaijan E-Commerce Dashboard (Tableau)
+# 📊 E-Commerce Dashboard (Tableau)
 
 **Goal:** Build an interactive executive dashboard that answers “How is the business performing?” in under 10 seconds.
 
