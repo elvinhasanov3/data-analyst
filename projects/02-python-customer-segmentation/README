@@ -1,1 +1,74 @@
-a
+# 👥 Customer Segmentation with RFM Analysis (Python)
+
+**Goal:** Segment customers into meaningful groups using Recency, Frequency, and Monetary value so marketing can target them better.
+
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+---
+
+## 📌 Business Question
+
+Which customers are our most valuable, which are at risk of churning, and which are new/promising?
+
+---
+
+## 📂 Project Structure
+
+```
+02-python-customer-segmentation/
+├── data/
+│   ├── raw/
+│   └── cleaned/
+├── notebooks/
+│   └── rfm_analysis.ipynb          (main analysis)
+├── scripts/
+│   └── rfm_pipeline.py             (reusable script)
+├── outputs/
+│   ├── segments_summary.csv
+│   └── charts/
+└── README.md
+```
+
+---
+
+## 🔍 Method
+
+1. Calculate **Recency** (days since last purchase)
+2. Calculate **Frequency** (number of orders)
+3. Calculate **Monetary** (total spend)
+4. Score each customer 1–5 on R, F, M
+5. Combine scores into segments:
+   - Champions
+   - Loyal Customers
+   - Potential Loyalists
+   - At Risk
+   - Hibernating
+   - New Customers
+
+---
+
+## 📊 Key Findings (example – replace with yours)
+
+| Segment          | % of Customers | % of Revenue | Action                          |
+|------------------|----------------|--------------|---------------------------------|
+| Champions        | 12%            | 45%          | Reward & upsell                 |
+| Loyal            | 18%            | 25%          | Loyalty program                 |
+| At Risk          | 15%            | 12%          | Win-back campaign               |
+| Hibernating      | 22%            | 5%           | Re-activation or drop           |
+
+---
+
+## ▶️ How to run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/rfm_analysis.ipynb
+# or
+python scripts/rfm_pipeline.py
+```
+
+---
+
+## 💡 Recommendation
+
+Focus retention budget on “At Risk” and “Loyal” segments. Champions should get exclusive offers to increase average order value.
